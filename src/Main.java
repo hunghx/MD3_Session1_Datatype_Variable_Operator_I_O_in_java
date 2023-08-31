@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -68,8 +69,13 @@ public class Main {
         Number num = new Number();
         System.out.println(num.a + num.b);
 
-
+// Ứng dung chuyển đổi tiền tệ
         // Input : 100
         // Output: 100 $ =  2300000 VND
+
+// ứng dụng xếp loai học lực theo điểm trung bình
+        // Input : 2,3,4,5,6
+        // Output : 4 - Yếu
+
     }
 }
