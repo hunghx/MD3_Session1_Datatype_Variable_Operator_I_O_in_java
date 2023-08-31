@@ -1,0 +1,12 @@
+1. Format code
+Ctrl + Alt + L;
+2. Comment 1 đoạn code
+Ctrl + /
+3. Tìm kiếm keyword trong file
+Ctrl + F
+4. Chạy ứng dụng
+Shift + F10
+5. Copy 1 dòng lệnh
+Ctrl + D
+6. Mở Terminal trong Intellij
+Alt + F12
