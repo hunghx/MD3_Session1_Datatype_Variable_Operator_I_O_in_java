@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package ra;
+
 import java.util.Date;
 import java.util.Scanner;
 
